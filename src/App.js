@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.less';
-import MyProfile from "./components/MyProfile";
+import MyProfile from "./components/MyProfile.jsx";
 
 const App = () => {
   return (
